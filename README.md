@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Edgard</h1>
-<h3 align="center">A passionate fullstack Developer from Brazil</h3>
+# Hi, I'm Edgard 👋
+
+Backend Engineer focused on APIs, integrations, legacy modernization and open source.
+
+I work mainly with PHP, Laravel, Yii, TypeScript, Node.js, NestJS, PostgreSQL, MySQL, Firebird, Docker and Linux.
+
+I enjoy building software that connects systems, simplifies business operations and remains maintainable over time.
+
+## Featured work
+
+- **GLPI Single Sign-On** — OAuth 2.0 / OpenID Connect authentication plugin for GLPI.
+- **VS Code Clipboard Manager** — Developer productivity extension for Visual Studio Code.
+- **Yii2 Firebird** — Firebird database connector for Yii2 applications.
+- **GLPI Trademark** — GLPI plugin for visual customization and branding.
+
+## Links
+
+- Website: https://edgard.dev.br
+- LinkedIn: https://www.linkedin.com/in/edgardmessias
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgardmessias&label=Profile%20views&color=0e75b6&style=flat" alt="edgardmessias" /> </p>
 
